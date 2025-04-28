@@ -9,7 +9,16 @@ https://github.com/user-attachments/assets/3c5eaf5d-614e-4127-acf4-882345100a47
 
 
 - تحميل رابط مباشر من GITHUB : https://github.com/s3d-x/Reversing-letters-in-Arabic-texts/releases/download/rar/Reversing-letters-in-Arabic-texts.rar
-
+-
+-
+-
+-
+-
+انا غير مسؤول عن اي أستخدام غير شرعي لهذا المشروع.
++
++
++
++
 
 
 السلام عليكم ورحمة الله وبركاتة
