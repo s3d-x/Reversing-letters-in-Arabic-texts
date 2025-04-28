@@ -8,7 +8,7 @@
     }
 
     ; reshape_scriptهنا ضع مسار السكربت مع الصيغة الخاصة به
-    RunWait, pythonw.exe "ضع مسار مع الصيغة reshape_script.py هنا", , Hide
+    RunWait, pythonw.exe "ضع المسار مع الصيغة هنا", , Hide
 
     ; 
     ClipWait, 0.1
