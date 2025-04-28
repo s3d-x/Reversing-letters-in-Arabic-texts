@@ -1,6 +1,7 @@
 Reversing letters in Arabic texts - عكس الحروف في النصوص العربية
 
 
+
 السلام عليكم ورحمة الله وبركاتة
 لعكس الكلام العربي , بالبداية يجب تحميل البرنامج AutoHotkey من الموقع الخاص بهم
 https://www.autohotkey.com
