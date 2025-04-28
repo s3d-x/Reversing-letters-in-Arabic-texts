@@ -40,9 +40,20 @@ https://www.python.org
 
 
 
++
++
++
++
++
++
+
 
 مشروع جديد بيتا : 
-برنامج لتحميل جميع العاب ستيم  بتصميم عصري قم بتواصل معنا لدعوتك للدسكورد الخاص
++
++
++
+
+هذا مشروع جديد بيتا . لتحميل العاب ستيم مجانا لتحميل البرنامج التواصل معنا او الدخول اسيرفر الدسكورد
 
 Discord : 4SAAD
 
@@ -54,6 +65,8 @@ https://discord.com/invite/CWC8BYAyjd
 https://epicao.servegame.com
 
 
+![Screenshot_1](https://github.com/user-attachments/assets/b707004c-a8e1-41ae-a3fb-c09810857058)
 
+![Epicano2](https://github.com/user-attachments/assets/265b91ef-7742-4129-a2c1-578d22e7b3d6)
 
 
