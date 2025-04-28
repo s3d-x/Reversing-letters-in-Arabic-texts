@@ -11,5 +11,5 @@ text = pyperclip.paste()
 reshaped_text = arabic_reshaper.reshape(text)
 bidi_text = get_display(reshaped_text)
 
-# وضع الناتج في الحافظة مرة ثانية
+
 pyperclip.copy(bidi_text)
