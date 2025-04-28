@@ -70,5 +70,5 @@ https://epicao.servegame.com
 
 ![Epicano2](https://github.com/user-attachments/assets/265b91ef-7742-4129-a2c1-578d22e7b3d6)
 
-https://epicao.servegame.com/ShowCase.mp4
+[https://epicao.servegame.com/](https://epicao.servegame.com/videos)
 
